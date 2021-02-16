@@ -237,20 +237,20 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 .gs-section-01 h3 { 
      color: #552583;
-     font-family: lucida console;
+     font-family: papyrus;
      font-size: 175%
      }
 
 .gs-section-01 p {
-     font-size: 25px;
+     font-size: 20px;
 }
 .gs-section-02 h3 { 
      color: #FDB927;
      font-family: copperplate;
-     font-size: 175%}
+     font-size: 200%}
 
 .gs-section-02 p {
-     font-size: 25px;
+     font-size: 20px;
 }
 .gs-section-03 h3 { 
      color: #1D428A;
@@ -258,7 +258,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      font-size: 175%}
 
 .gs-section-03 p {
-     font-size: 25px;
+     font-size: 20px;
 }
 
 </style>
