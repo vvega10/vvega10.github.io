@@ -238,7 +238,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 .gs-section-01 h3 { 
      color: #552583;
      font-family: papyrus;
-     font-size: 175%
+     font-size: 200%
      }
 
 .gs-section-01 p {
