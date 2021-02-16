@@ -238,27 +238,27 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 .gs-section-01 h3 { 
      color: red;
      font-family: avenir;
-     font-size: 150%
+     font-size: 175%
      }
 
 .gs-section-01 p {
-     font-size: 20px;
+     font-size: 25px;
 }
 .gs-section-02 h3 { 
      color: #003262;
-     font-family: courier;
-     font-size: 200%}
+     font-family: copperplate;
+     font-size: 175%}
 
 .gs-section-02 p {
-     font-size: 30px;
+     font-size: 25px;
 }
 .gs-section-03 h3 { 
      color: #FCB347;
-     font-family: courier;
-     font-size: 75%}
+     font-family: monaco;
+     font-size: 175%}
 
 .gs-section-03 p {
-     font-size: 40px;
+     font-size: 25px;
 }
 
 </style>
