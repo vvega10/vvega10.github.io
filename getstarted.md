@@ -236,8 +236,8 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 <style>
 
 .gs-section-01 h3 { 
-     color: red;
-     font-family: avenir;
+     color: #552583;
+     font-family: lucida console;
      font-size: 175%
      }
 
@@ -245,7 +245,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      font-size: 25px;
 }
 .gs-section-02 h3 { 
-     color: #003262;
+     color: #FDB927;
      font-family: copperplate;
      font-size: 175%}
 
@@ -253,7 +253,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      font-size: 25px;
 }
 .gs-section-03 h3 { 
-     color: #FCB347;
+     color: #1D428A;
      font-family: monaco;
      font-size: 175%}
 
